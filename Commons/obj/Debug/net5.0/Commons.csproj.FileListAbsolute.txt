@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Catalog\Commons\bin\Debug\net5.0\Commons.deps.json
+C:\Users\hp\source\repos\Catalog\Commons\bin\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\Catalog\Commons\bin\Debug\net5.0\ref\Commons.dll
+C:\Users\hp\source\repos\Catalog\Commons\bin\Debug\net5.0\Commons.pdb
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.dll
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\ref\Commons.dll
+C:\Users\hp\source\repos\Catalog\Commons\obj\Debug\net5.0\Commons.pdb

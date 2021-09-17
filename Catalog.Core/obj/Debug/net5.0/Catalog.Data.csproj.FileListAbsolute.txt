@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Catalog\Catalog.Data\bin\Debug\net5.0\Catalog.Data.deps.json
+C:\Users\hp\source\repos\Catalog\Catalog.Data\bin\Debug\net5.0\Catalog.Data.dll
+C:\Users\hp\source\repos\Catalog\Catalog.Data\bin\Debug\net5.0\ref\Catalog.Data.dll
+C:\Users\hp\source\repos\Catalog\Catalog.Data\bin\Debug\net5.0\Catalog.Data.pdb
+C:\Users\hp\source\repos\Catalog\Catalog.Data\bin\Debug\net5.0\Catalog.Models.dll
+C:\Users\hp\source\repos\Catalog\Catalog.Data\bin\Debug\net5.0\Catalog.Models.pdb
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.dll
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\ref\Catalog.Data.dll
+C:\Users\hp\source\repos\Catalog\Catalog.Data\obj\Debug\net5.0\Catalog.Data.pdb
