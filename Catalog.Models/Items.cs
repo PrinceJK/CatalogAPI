@@ -2,11 +2,11 @@
 
 namespace Catalog.Models
 {
-    public class Item
+    public record Item
     {
-        public Guid Id { get; set; }
-        public string Name {  get; set; }
-        public decimal Price {  get; set; }
-        public DateTimeOffset CreadedDate { get; set; }
+        public Guid Id { get; init; }
+        public string Name {  get; init; }
+        public decimal Price {  get; init; }
+        public DateTimeOffset CreadedDate { get; init; }
     }
 }

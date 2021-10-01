@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace Catalog.Core.DTO
 {
-    public class UpdateItemDTO
+    public record UpdateItemDTO
     {
         [Required]
-        public string Name { get; set; }
+        public string Name { get; init; }
 
         [Required]
         [Range(1, 1000)]
-        public decimal Price { get; set; }
+        public decimal Price { get; init; }
     }
 }

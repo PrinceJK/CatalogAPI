@@ -44,7 +44,7 @@ namespace Catalog.Controllers
         }
 
         //Create Items
-        [HttpPost("{item}")]
+        [HttpPost]
         public async Task<ActionResult<ItemDTO>> CreateItemAsync([FromForm]CreateItemDTO itemDTO)
         {
             Item item = new()
@@ -60,7 +60,7 @@ namespace Catalog.Controllers
             return CreatedAtAction(nameof(GetItemAsync), new { id = item.Id }, item.AsDTO());
         }
 
-        [HttpPut("{id}")]
+        [HttpPut]
         public async Task<ActionResult> UpdateItem(Guid id, UpdateItemDTO itemDTO)
         {
             var existingItem = await _repository.GetItemAsync(id);
